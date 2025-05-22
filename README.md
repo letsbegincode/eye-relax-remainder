@@ -1,6 +1,3 @@
-Here's a comprehensive **README.md** for your Eye Relax Reminder app that covers installation and usage for Windows, macOS, and Linux:
-
-```markdown
 # 👀 Eye Relax Reminder
 
 A minimalist, cross-platform desktop app that reminds you to take eye breaks every 20 minutes (following the 20-20-20 rule). Perfect for developers, designers, and anyone who spends long hours in front of screens.
@@ -136,15 +133,3 @@ Pull requests welcome! Please:
 
 ## License 📄
 MIT © abhi
-```
-
----
-
-### Key Features of This README:
-1. **Platform-Specific Instructions** - Clear steps for Windows, macOS, and Linux
-2. **Multiple Installation Methods** - Both pre-built and from-source options
-3. **Visual Hierarchy** - Emojis and headers for better scanning
-4. **Troubleshooting Section** - Common issues and solutions
-5. **Build Instructions** - For developers who want to package themselves
-6. **Configuration Options** - Shows how to customize behavior
-7. **Contribution Guidelines** - Standard open-source template
