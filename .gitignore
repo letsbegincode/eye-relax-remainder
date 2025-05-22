@@ -1,0 +1,4 @@
+node_modules
+dist
+EyeRelaxApp-win32-x64
+*.exe
