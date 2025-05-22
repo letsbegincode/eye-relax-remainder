@@ -2,7 +2,8 @@
 
 A minimalist, cross-platform desktop app that reminds you to take eye breaks every 20 minutes (following the 20-20-20 rule). Perfect for developers, designers, and anyone who spends long hours in front of screens.
 
-For more installation instructions, usage guide, and more, check out the [Wiki](https://github.com/letsbegincode/eye-relax-remainder/wiki).
+ 
+📘 For more installation instructions, usage guide, and more, check out the  [wiki](https://github.com/letsbegincode/my-blog-practice/wiki/Installation)
 
 ## Features ✨
 - 🕒 20-minute reminder intervals
