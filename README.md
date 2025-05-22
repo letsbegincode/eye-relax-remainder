@@ -2,7 +2,6 @@
 
 A minimalist, cross-platform desktop app that reminds you to take eye breaks every 20 minutes (following the 20-20-20 rule). Perfect for developers, designers, and anyone who spends long hours in front of screens.
 
-![App Screenshot](screenshot.png)
 
 ## Features ✨
 - 🕒 20-minute reminder intervals
